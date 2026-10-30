@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ChromeTracker/ChromeTracker.csproj" />
+  <Project Path="ChromeTrackerAgent/ChromeTrackerAgent.csproj" />
+  <Project Path="CTCommon/CTCommon.csproj" />
+</Solution>
